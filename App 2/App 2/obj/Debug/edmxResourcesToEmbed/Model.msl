@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="FilesUploadedDBModelStoreContainer" CdmEntityContainer="FilesUploadedDBEntities">
+    <EntitySetMapping Name="Uploaded_Files">
+      <EntityTypeMapping TypeName="FilesUploadedDBModel.Uploaded_Files">
+        <MappingFragment StoreEntitySet="Uploaded Files">
+          <ScalarProperty Name="File_ID" ColumnName="File ID" />
+          <ScalarProperty Name="Title" ColumnName="Title" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="File_Path" ColumnName="File Path" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

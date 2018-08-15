@@ -1,0 +1,15 @@
+C:\Users\Yassine\Desktop\App 2\App 2\bin\Debug\App 2.exe.config
+C:\Users\Yassine\Desktop\App 2\App 2\bin\Debug\App 2.exe
+C:\Users\Yassine\Desktop\App 2\App 2\bin\Debug\App 2.pdb
+C:\Users\Yassine\Desktop\App 2\App 2\bin\Debug\EntityFramework.dll
+C:\Users\Yassine\Desktop\App 2\App 2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Yassine\Desktop\App 2\App 2\bin\Debug\EntityFramework.xml
+C:\Users\Yassine\Desktop\App 2\App 2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Yassine\Desktop\App 2\App 2\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\Yassine\Desktop\App 2\App 2\obj\Debug\App 2.csprojResolveAssemblyReference.cache
+C:\Users\Yassine\Desktop\App 2\App 2\obj\Debug\App_2.Properties.Resources.resources
+C:\Users\Yassine\Desktop\App 2\App 2\obj\Debug\App_2.UploadFile.resources
+C:\Users\Yassine\Desktop\App 2\App 2\obj\Debug\App 2.csproj.GenerateResource.Cache
+C:\Users\Yassine\Desktop\App 2\App 2\obj\Debug\App 2.exe
+C:\Users\Yassine\Desktop\App 2\App 2\obj\Debug\App 2.pdb
+C:\Users\Yassine\Desktop\App 2\App 2\obj\Debug\App_2.Form1.resources
